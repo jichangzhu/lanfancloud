@@ -20,9 +20,11 @@ LanfanCloud蓝帆云机场，是老牌机场旗下的新开分站，是用平价
 
 ## 蓝帆云机场测速
 
+![LanFanCloud-SpeedTest-SHDX](https://github.com/jichangzhu/lanfancloud/assets/152512496/07e3c040-f643-4d96-ad12-8d7b088c1d75)
 
 ## 蓝帆云出入口分析
 
+![LanFanCloud-Network-Topology-SHDX](https://github.com/jichangzhu/lanfancloud/assets/152512496/0292bd60-2e7e-42d2-8502-f0ffb1c9f761)
 
 ## 蓝帆云跑路
 目前蓝帆云没有跑路，可以放心使用。
